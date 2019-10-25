@@ -17,6 +17,7 @@ To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
 
 Notes:
+Libraries: https://drive.google.com/file/d/1_EJ-kHo7VLLMBXrPK6e1ltefYMXp7Ogp/view?usp=sharing
 
 * If two JAR files on the project classpath have the same name, only the first
 JAR file is copied to the lib folder.
